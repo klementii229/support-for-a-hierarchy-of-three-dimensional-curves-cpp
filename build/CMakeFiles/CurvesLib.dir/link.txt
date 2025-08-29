@@ -1,0 +1,1 @@
+/usr/bin/clang++ -fPIC  -stdlib=libc++ -O3 -DNDEBUG -Xlinker --dependency-file=CMakeFiles/CurvesLib.dir/link.d -shared -Wl,-soname,libCurvesLib.so -o libCurvesLib.so CMakeFiles/CurvesLib.dir/source/curves.cpp.o

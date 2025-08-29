@@ -1,0 +1,4 @@
+/home/kernel/Galaxy/Galaxy/build/CMakeFiles/CurvesLib.dir
+/home/kernel/Galaxy/Galaxy/build/CMakeFiles/main.dir
+/home/kernel/Galaxy/Galaxy/build/CMakeFiles/edit_cache.dir
+/home/kernel/Galaxy/Galaxy/build/CMakeFiles/rebuild_cache.dir
